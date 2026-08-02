@@ -1,0 +1,20 @@
+{
+  "name": "hub",
+  "private": true,
+  "version": "1.0.0",
+  "description": "중학교 정보 수업 활동 메인페이지 (단원 1~5 → 활동 목록 → 활동 앱)",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite"
+  },
+  "keywords": [
+    "education",
+    "middle-school",
+    "informatics",
+    "hub"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^8.1.5"
+  }
+}
