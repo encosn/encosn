@@ -81,11 +81,15 @@
       card.appendChild(el('h2', 'unit-name', u.name));
       card.appendChild(el('p', 'unit-summary', u.summary));
 
+      /* 바닥 한 줄: [활동 N개] [성취기준 M개] [들어가기 →]
+         셋이 한 줄에 들어가야 하므로 글자를 짧게 쓴다.
+         («활동 준비 중» 이라고 쓰면 폭이 모자라 줄이 접힌다) */
       var foot = el('div', 'unit-foot');
       var n = u.activities.length;
       foot.appendChild(el('span', 'badge' + (n ? ' has' : ''),
-        n ? '활동 ' + n + '개' : '활동 준비 중'));
-      foot.appendChild(el('span', 'badge', '성취기준 ' + u.standards.length + '개'));
+        n ? '활동 ' + n + '개' : '준비 중'));
+      // shrink: 자리가 정말 모자랄 때 줄어드는 쪽을 이 배지 하나로 정해 둔다
+      foot.appendChild(el('span', 'badge shrink', '성취기준 ' + u.standards.length + '개'));
       foot.appendChild(el('span', 'go', '들어가기 →'));
       card.appendChild(foot);
 
