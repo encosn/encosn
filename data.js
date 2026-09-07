@@ -67,13 +67,12 @@ window.CURRICULUM = {
           status: 'ready',
         },
         {
-          // 아직 배포 전이라 'soon' 이다. GitHub Pages 에 올리고 나면
-          // url 을 채우고 status 를 'ready' 로 바꾸면 바로 열린다.
           title: '데이터 탐구 수행평가 — 수집·시각화·분석',
           emoji: '📝',
           desc: '탐구 질문을 정하고, 설문·관찰이나 파일 업로드로 데이터를 모아요. 그래프로 나타내 보고 가이드 질문에 따라 의미를 해석한 다음, 보고서 파일로 내려받아 클래스룸에 제출해요.',
           standards: ['9정02-02', '9정02-03', '9정02-04'],
-          status: 'soon',
+          url: 'https://encosn.github.io/data-report/',
+          status: 'ready',
         },
       ],
     },
@@ -97,13 +96,12 @@ window.CURRICULUM = {
       ],
       activities: [
         {
-          // 아직 배포 전이라 'soon' 이다. GitHub Pages 에 올리고 나면
-          // url 을 채우고 status 를 'ready' 로 바꾸면 바로 열린다.
           title: '문제 정의와 순서도 그리기',
           emoji: '🧩',
           desc: '문제 상황을 골라(또는 직접 써서) 해결해야 할 문제와 초기·목표 상태를 정의하고, 시작/끝·입출력·처리·판단 기호로 순서도를 그려요. 그다음 그 순서도를 따라가며 의사코드로 옮겨 봐요. 점검하기를 누르면 빠진 곳을 알려줘요.',
           standards: ['9정03-01', '9정03-02', '9정03-04'],
-          status: 'soon',
+          url: 'https://encosn.github.io/algorithm-flowchart/',
+          status: 'ready',
         },
         {
           title: '중첩 제어 구조 프로그래밍 — 문양 그리기',
@@ -131,13 +129,12 @@ window.CURRICULUM = {
       ],
       activities: [
         {
-          // 아직 배포 전이라 'soon' 이다. GitHub Pages 에 올리고 나면
-          // url 을 채우고 status 를 'ready' 로 바꾸면 바로 열린다.
           title: '인공지능 탐험대 — 역사·개념·원리 체험',
           emoji: '🤖',
           desc: 'AI 연대표를 따라가 보고, 「이건 AI일까?」 카드로 인공지능과 규칙을 가려내요. 그다음 판에 점을 찍어 내 손으로 AI를 학습시키고, 데이터가 한쪽으로 치우치면 어떻게 되는지 실험해요.',
           standards: ['9정04-01', '9정04-02', '9정04-03', '9정04-05'],
-          status: 'soon',
+          url: 'https://encosn.github.io/ai-explorer/',
+          status: 'ready',
         },
       ],
     },
@@ -160,6 +157,14 @@ window.CURRICULUM = {
           desc: '개인정보가 담긴 게시물을 올려 보고, 몇 분 만에 몇 명에게 퍼질지 먼저 예상해요. 그다음 도는 지구본으로 확인하고 「글을 지워도 확산은 멈추지 않는다」를 직접 겪어요.',
           standards: ['9정05-02', '9정05-03'],
           url: 'https://encosn.github.io/digit/',
+          status: 'ready',
+        },
+        {
+          title: '디지털 윤리 모둠 탐구 — 사이버 폭력·중독·개인정보·저작권',
+          emoji: '🤝',
+          desc: '모둠이 네 주제 중 하나를 맡아요. 교과서 내용이 그림으로 정리되어 있어 먼저 보고, 퀴즈로 확인한 뒤 우리 말로 정리해요. 실제 사례를 조사해 채우면 발표 슬라이드가 만들어져요.',
+          standards: ['9정05-02', '9정05-03'],
+          url: 'https://encosn.github.io/digital-ethics/',
           status: 'ready',
         },
       ],
