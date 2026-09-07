@@ -129,13 +129,14 @@ npm start       → http://localhost:8084
 
 ### 링크 대상 앱의 배포 상태
 
-**2026-09-07 기준 — 링크 9개가 모두 살아 있다.** (`status: 'soon'` 인 활동은 이제 없다)
+**2026-09-07 기준 — 링크 10개가 모두 살아 있다.** (`status: 'soon'` 인 활동은 이제 없다)
 
 | 단원 | 활동 | 주소 | 상태 |
 |:---:|:---|:---|:---|
 | 2 | 10진수 → 2진수 변환 실습기 | https://encosn.github.io/binary-converter/ | 살아 있음 (2026-09-07 배포) |
 | 2 | 공공데이터 결측치 정리 실습기 | https://encosn.github.io/data-cleaner/ | 살아 있음 (2026-09-07 배포) |
 | 2 | 데이터 탐구 수행평가 | https://encosn.github.io/data-report/ | 살아 있음 (2026-09-07 배포) |
+| 2 | 우체통에서 받은편지함까지 | https://encosn.github.io/postal-simulator/ | 살아 있음 (2026-09-07 배포) |
 | 3 | 문제 정의와 순서도 그리기 | https://encosn.github.io/algorithm-flowchart/ | 살아 있음 (2026-09-07 배포) |
 | 3 | 중첩 제어 구조 프로그래밍 | https://encosn.github.io/nested-control/ | 살아 있음 |
 | 4 | 인공지능 탐험대 | https://encosn.github.io/ai-explorer/ | 살아 있음 (2026-09-07 배포) |
