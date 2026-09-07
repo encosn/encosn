@@ -188,5 +188,12 @@ window.CURRICULUM = {
       url: 'https://encosn.github.io/excel-picker/',
       status: 'ready',
     },
+    {
+      title: '컴퓨터실 자리뽑기',
+      emoji: '🎲',
+      desc: '구역·행·열로 컴퓨터실 자리 배치를 만들고, 날짜·교시·학년/반·인원수를 입력하면 자리를 무작위로 배정해요. 몇 자리는 고정해 둘 수 있고, 학생이 보는 화면과 교사가 보는 화면을 각각 PNG로 저장할 수 있어요.',
+      url: 'https://encosn.github.io/seat-randomizer/',
+      status: 'ready',
+    },
   ],
 };
