@@ -59,6 +59,14 @@ window.CURRICULUM = {
           status: 'ready',
         },
         {
+          title: '우체통에서 받은편지함까지 — 종이 편지 vs 전자 우편',
+          emoji: '📮',
+          desc: '같은 편지를 종이로도 부치고 메일로도 보내요. 두 편지가 어디를 거쳐 얼마나 걸리는지 나란히 따라가면, 자료가 디지털이 되면 무엇이 사라지는지 보여요.',
+          standards: ['9정02-01'],
+          url: 'https://encosn.github.io/postal-simulator/',
+          status: 'ready',
+        },
+        {
           title: '공공데이터 결측치 정리 실습기',
           emoji: '🧹',
           desc: '공공데이터포털에서 받은 자료의 빈 칸을 정리하고 필요한 속성만 골라 엑셀 파일로 만들어요. 빈 칸 처리 방법을 바꾸면 평균이 달라지는 것을 눈으로 봐요.',
