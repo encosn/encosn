@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="t">
+  <title id="t">encosn — 중학교 정보 수업 활동</title>
+
+  <!-- 바탕: style.css 의 기본 단원 색(#7c6cf0)을 그대로 쓴다.
+       모서리 둥글기 14/64 는 앱 아이콘과 비슷한 비율이다.
+       주의: XML 주석 안에는 붙임표 두 개를 쓸 수 없다. CSS 변수 이름을
+       그대로 적으면 이 파일이 그림으로 열리지 않는다. -->
+  <rect width="64" height="64" rx="14" fill="#7c6cf0"/>
+
+  <!-- encosn 의 머리글자 e.
+       16px 로 줄여도 읽히도록 글꼴을 쓰지 않고 획으로 직접 그렸다
+       (글꼴을 쓰면 그 글꼴이 없는 기기에서 모양이 달라진다).
+         가로획   : 가운데를 가로지르는 선
+         둥근 획  : 오른쪽 끝에서 위, 왼쪽, 아래를 돌아 오른쪽 아래에서 끝난다.
+                    오른쪽 아래가 트여 있는 것이 소문자 e 의 특징이다. -->
+  <g fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round">
+    <path d="M17 32H47"/>
+    <path d="M47 32A15 15 0 1 0 40.6 44.29"/>
+  </g>
+</svg>
