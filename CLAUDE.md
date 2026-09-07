@@ -129,17 +129,27 @@ npm start       → http://localhost:8084
 
 ### 링크 대상 앱의 배포 상태
 
+**2026-09-07 기준 — 링크 9개가 모두 살아 있다.** (`status: 'soon'` 인 활동은 이제 없다)
+
 | 단원 | 활동 | 주소 | 상태 |
 |:---:|:---|:---|:---|
-| 2 | 10진수 → 2진수 변환 실습기 | https://encosn.github.io/binary-converter/ | 저장소 생성 대기 |
-| 2 | 공공데이터 결측치 정리 실습기 | https://encosn.github.io/data-cleaner/ | 저장소 생성 대기 |
+| 2 | 10진수 → 2진수 변환 실습기 | https://encosn.github.io/binary-converter/ | 살아 있음 (2026-09-07 배포) |
+| 2 | 공공데이터 결측치 정리 실습기 | https://encosn.github.io/data-cleaner/ | 살아 있음 (2026-09-07 배포) |
+| 2 | 데이터 탐구 수행평가 | https://encosn.github.io/data-report/ | 살아 있음 (2026-09-07 배포) |
+| 3 | 문제 정의와 순서도 그리기 | https://encosn.github.io/algorithm-flowchart/ | 살아 있음 (2026-09-07 배포) |
+| 3 | 중첩 제어 구조 프로그래밍 | https://encosn.github.io/nested-control/ | 살아 있음 |
+| 4 | 인공지능 탐험대 | https://encosn.github.io/ai-explorer/ | 살아 있음 (2026-09-07 배포) |
 | 5 | 정보의 확산 속도 체험하기 | https://encosn.github.io/digit/ | 살아 있음 |
+| 5 | 디지털 윤리 모둠 탐구 | https://encosn.github.io/digital-ethics/ | 살아 있음 (2026-09-07 배포) |
 | — | 엑셀 다듬기 (선생님용) | https://encosn.github.io/excel-picker/ | 살아 있음 |
+
+> ⚠️ `binary-converter` 와 `data-cleaner` 는 **2026-09-07 까지 저장소 자체가 없어 404 였다.**
+> 다른 문서에는 배포된 것처럼 적혀 있었으니, 링크 상태는 문서 대신 실제로 열어 보고 판단할 것.
 
 ### 다음 할 일
 
-- [ ] `encosn/binary-converter`, `encosn/data-cleaner` 저장소를 만들고 push
-      → 2단원 링크 2개가 그때 살아난다 (지금은 404)
-- [ ] 1·3·4단원 활동 만들기 (컴퓨팅 시스템 / 알고리즘과 프로그래밍 / 인공지능)
+- [x] `encosn/binary-converter`, `encosn/data-cleaner` 저장소를 만들고 push (2026-09-07)
+- [ ] **1단원(컴퓨팅 시스템) 활동 만들기** — 다섯 단원 중 여기만 활동이 하나도 없다
+      (3·4단원은 2026-09-07 배포로 채워졌다)
 - [ ] 화면 디자인을 실제 교실 TV에서 눈으로 확인 (글자 크기·색 대비)
 - [ ] 활동이 늘어나면 단원 페이지에 차시·난이도 표시를 넣을지 검토
