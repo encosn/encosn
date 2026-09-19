@@ -150,8 +150,11 @@ npm start       → http://localhost:8084
 
 **2026-09-07 기준 — 링크 10개가 모두 살아 있다.** (`status: 'soon'` 인 활동은 이제 없다)
 
+**2026-09-19 — 2단원에 `place-value` 를 더해 11개가 되었다.**
+
 | 단원 | 활동 | 주소 | 상태 |
 |:---:|:---|:---|:---|
+| 2 | 자릿값으로 읽는 수 | https://encosn.github.io/place-value/ | 살아 있음 (2026-09-19 배포) |
 | 2 | 10진수 → 2진수 변환 실습기 | https://encosn.github.io/binary-converter/ | 살아 있음 (2026-09-07 배포) |
 | 2 | 공공데이터 결측치 정리 실습기 | https://encosn.github.io/data-cleaner/ | 살아 있음 (2026-09-07 배포) |
 | 2 | 데이터 탐구 수행평가 | https://encosn.github.io/data-report/ | 살아 있음 (2026-09-07 배포) |
