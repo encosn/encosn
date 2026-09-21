@@ -152,10 +152,11 @@ npm start       → http://localhost:8084
 
 **2026-09-19 — 2단원에 `place-value` 를 더해 11개가 되었다.**
 
+**2026-09-21 — `binary-converter` 저장소를 지워 10개가 되었다.**
+
 | 단원 | 활동 | 주소 | 상태 |
 |:---:|:---|:---|:---|
 | 2 | 자릿값으로 읽는 수 | https://encosn.github.io/place-value/ | 살아 있음 (2026-09-19 배포) |
-| 2 | 10진수 → 2진수 변환 실습기 | https://encosn.github.io/binary-converter/ | 살아 있음 (2026-09-07 배포) |
 | 2 | 공공데이터 결측치 정리 실습기 | https://encosn.github.io/data-cleaner/ | 살아 있음 (2026-09-07 배포) |
 | 2 | 데이터 탐구 수행평가 | https://encosn.github.io/data-report/ | 살아 있음 (2026-09-07 배포) |
 | 2 | 우체통에서 받은편지함까지 | https://encosn.github.io/postal-simulator/ | 살아 있음 (2026-09-07 배포) |
@@ -166,12 +167,12 @@ npm start       → http://localhost:8084
 | 5 | 디지털 윤리 모둠 탐구 | https://encosn.github.io/digital-ethics/ | 살아 있음 (2026-09-07 배포) |
 | — | 엑셀 다듬기 (선생님용) | https://encosn.github.io/excel-picker/ | 살아 있음 |
 
-> ⚠️ `binary-converter` 와 `data-cleaner` 는 **2026-09-07 까지 저장소 자체가 없어 404 였다.**
+> ⚠️ `data-cleaner` 는 **2026-09-07 까지 저장소 자체가 없어 404 였다.**
 > 다른 문서에는 배포된 것처럼 적혀 있었으니, 링크 상태는 문서 대신 실제로 열어 보고 판단할 것.
 
 ### 다음 할 일
 
-- [x] `encosn/binary-converter`, `encosn/data-cleaner` 저장소를 만들고 push (2026-09-07)
+- [x] `encosn/data-cleaner` 저장소를 만들고 push (2026-09-07)
 - [ ] **1단원(컴퓨팅 시스템) 활동 만들기** — 다섯 단원 중 여기만 활동이 하나도 없다
       (3·4단원은 2026-09-07 배포로 채워졌다)
 - [ ] 화면 디자인을 실제 교실 TV에서 눈으로 확인 (글자 크기·색 대비)

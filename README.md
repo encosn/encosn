@@ -9,7 +9,7 @@
 | 단원 | 영역 | 활동 |
 |:---:|:---|:---|
 | 1 | 컴퓨팅 시스템 | 준비 중 |
-| 2 | 데이터 | [10진수 → 2진수 변환 실습기](https://encosn.github.io/binary-converter/) · [공공데이터 결측치 정리 실습기](https://encosn.github.io/data-cleaner/) |
+| 2 | 데이터 | [공공데이터 결측치 정리 실습기](https://encosn.github.io/data-cleaner/) |
 | 3 | 알고리즘과 프로그래밍 | 준비 중 |
 | 4 | 인공지능 | 준비 중 |
 | 5 | 디지털 문화 | [디지털 공간에서 정보의 확산 속도 체험하기](https://encosn.github.io/digit/) |

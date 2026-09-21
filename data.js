@@ -59,14 +59,6 @@ window.CURRICULUM = {
           status: 'ready',
         },
         {
-          title: '10진수 → 2진수 변환 실습기',
-          emoji: '🔢',
-          desc: '2로 계속 나누고 나머지를 거꾸로 읽는 과정을 표로 한 단계씩 따라가요. 연습문제와 정답 확인이 들어 있어요.',
-          standards: ['9정02-01'],
-          url: 'https://encosn.github.io/binary-converter/',
-          status: 'ready',
-        },
-        {
           title: '우체통에서 받은편지함까지 — 종이 편지 vs 전자 우편',
           emoji: '📮',
           desc: '같은 편지를 종이로도 부치고 메일로도 보내요. 두 편지가 어디를 거쳐 얼마나 걸리는지 나란히 따라가면, 자료가 디지털이 되면 무엇이 사라지는지 보여요.',
