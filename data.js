@@ -88,7 +88,7 @@ window.CURRICULUM = {
           desc: '탐구 질문을 정하고, 설문·관찰이나 파일 업로드로 데이터를 모아요. 그래프로 나타내 보고 가이드 질문에 따라 의미를 해석한 다음, 보고서 파일로 내려받아 클래스룸에 제출해요.',
           standards: ['9정02-02', '9정02-03', '9정02-04'],
           url: 'https://encosn.github.io/data-report/',
-          status: 'ready',
+          status: 'soon',
         },
       ],
     },
